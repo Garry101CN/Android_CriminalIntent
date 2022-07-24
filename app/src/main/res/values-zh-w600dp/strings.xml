@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crime_title_hint">
+        请输入简短，好记的陋习描述，让嫌疑人记忆深刻
+    </string>
+</resources>

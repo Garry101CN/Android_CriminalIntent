@@ -1,5 +1,8 @@
 package com.bignerdranch.android.criminalintent.database
 
+/**
+ * Room数据库的Dao类，定义了数据库的基本操作
+ */
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
